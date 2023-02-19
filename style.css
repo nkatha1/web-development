@@ -1,0 +1,18 @@
+body{
+    background-image: url(./peshy.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    opacity: 0.1;
+
+}
+
+
+h1{color: blue;
+text-align: center;
+font-size:x-large;
+font-weight:xx-large;
+}
+
+img{
+    opacity: 1;
+}
